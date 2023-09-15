@@ -7,7 +7,7 @@ import ImageLink from "../ImageLink";
 export default function IndexPage() {
   const [places, setPlaces] = useState([]);
   useEffect(() => {
-    axios.get("/places").then((response) => {
+    axios.get("places").then((response) => {
       setPlaces([...response.data]);
     });
   }, []);
