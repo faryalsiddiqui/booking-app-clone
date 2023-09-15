@@ -1,4 +1,4 @@
-# booking-app-clone-1
+# Booking App Clone
 
 For testing purposes, feel free to log into the "John Doe" account with these credentials:
 
