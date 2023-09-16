@@ -1,4 +1,4 @@
-# Booking App Clone
+# TripNest
 
 For testing purposes, feel free to log into the "John Doe" account with these credentials:
 
@@ -6,7 +6,7 @@ For testing purposes, feel free to log into the "John Doe" account with these cr
 ****password**: john**
 
 
-The user can complete a wide array of tasks, such as:
+This application consists of various components, created using React, Tailwind CSS, MongoDB, Express, Node, and AWS
 - User Registration and Authentication
 - Property Listings
 - Booking and Reservation System
